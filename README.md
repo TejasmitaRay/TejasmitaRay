@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TejasmitaRay
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m still a learner
+- 💞️ Ask me about c, c++, java, python, HTML
 - 📫 How to reach me artstejasmita@gmail.com
 
 <!---
